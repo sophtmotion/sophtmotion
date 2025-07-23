@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Sophia!  
 
-<!--
-**sophtmotion/sophtmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analista de Dados em Formação  | Estudante de ADS | Apaixonada por transformar dados em decisões.**  
+🌎 Experiência internacional em Marketing & Comunicação, agora em transição para a área de Dados.  
+📈 Portfólio focado em Python, SQL, Power BI e projetos de análise.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Habilidades
+ 
+✅ Tableau e Google Colab
+✅ SQL e modelagem de dados
+✅ Power BI e visualização de dados
+✅ Git & GitHub para versionamento de projetos
+✅ Python (Pandas, Numpy, Matplotlib, Seaborn)
+
+---
+
+## ✨ Certificações
+
+- IBM Data Science
+- Google Data Analytics
+- Google Business Intelligence
+- Google Digital Marketing and E-Commerce
+
+---
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophiadejong/)  
